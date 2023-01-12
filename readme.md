@@ -1,0 +1,1 @@
+Building your own methods is great for using code over and over without having to retype things, but it’s also great for abstracting or simplifying your program. Once you write alphabetize, you don’t ever have to think about how it works—you just call it whenever you need it.
